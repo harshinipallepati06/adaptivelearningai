@@ -42,7 +42,7 @@ const Index = () => {
             <GraduationCap className="w-10 h-10 text-primary-foreground" />
           </motion.div>
           <h1 className="text-4xl font-heading font-bold text-foreground mb-2">
-            BioLearn
+            Adaptive Learning AI
           </h1>
           <p className="text-muted-foreground text-lg font-body">
             Your interactive biology learning companion
